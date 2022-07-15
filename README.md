@@ -12,8 +12,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [What I learned](#what-i-learned)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -24,14 +22,13 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://oallelsefailo.github.io/frontend-stats-preview/
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML5 markup
 - CSS custom properties
 - Flexbox
 
